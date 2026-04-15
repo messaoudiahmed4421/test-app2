@@ -46,7 +46,7 @@ A1_REQUIRED_COLS = {
 }
 
 MATERIALITY_THRESHOLD = 0.02  # 2%
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-2.0-flash"
 retry_config = None  # ADK default retry config
 
 
